@@ -1,0 +1,14 @@
+.invite-button {
+  width: 100%;
+  padding: 10px;
+  color: #9e16f8;
+  background-color: white;
+  border: none;
+  outline: none;
+  margin-bottom: 40px;
+}
+
+.invite-button:hover {
+  background-color: #9e16f8;
+  color: white;
+}

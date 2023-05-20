@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+  }
+  
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: rgb(207, 144, 250);
+    background: linear-gradient(
+      90deg,
+      rgba(207, 144, 250, 1) 10%,
+      rgba(246, 137, 174, 1) 34%,
+      rgba(249, 132, 82, 1) 60%,
+      rgba(246, 183, 99, 1) 87%,
+      rgba(252, 176, 69, 1) 100%
+    );
+  }
+  
+  .navbar-container .logo1 {
+    top: 165px;
+    left: 515px;
+    position: absolute;
+    color: white;
+    font-size: 7rem;
+    font-weight: 600;
+    text-shadow: 5px;
+    margin-bottom: 7px;
+  }
+  
+  .home .home-subtitle {
+    font-size: 1.45rem;
+    font-weight: 400;
+    color: #fff;
+    text-align: left;
+    margin-bottom: 20px;
+  }
+  
+  .home-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 30%;
+    padding: 10px;
+    color: orange;
+    font-weight: 200;
+    background-color: #fff;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    margin-top: 20px;
+    cursor: pointer;
+    transition: 0.5s;
+  }
+  
+  .home-button:hover {
+    background-color: #fff;
+    color: purple;
+    box-shadow: #000;
+  }
+  
+  .Main_page {
+    top: 125px;
+    left: 415px;
+    position: absolute;
+    color: white;
+    font-size: 7rem;
+    font-weight: 600;
+    text-shadow: 5px;
+    margin-bottom: 7px;
+  }

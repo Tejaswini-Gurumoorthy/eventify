@@ -1,0 +1,114 @@
+.form {
+    width: 400px;
+    padding: 40px;
+    background-color: rgb(255, 255, 255, 0.65);
+    border-radius: 5px;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.1);
+    margin-bottom: 10px;
+  }
+  
+  .name1 {
+    text-align: center;
+    font-size: 17px;
+    margin-right: 20px;
+    color: purple;
+    background: transparent;
+  }
+  
+  .email1 {
+    text-align: center;
+    font-size: 17px;
+    margin-right: 10px;
+    color: purple;
+    background: transparent;
+  }
+  
+  .submit-b {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    color: orange;
+    padding: 7px;
+    font-weight: 200;
+    background-color: #fff;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    margin-top: 5px;
+    cursor: pointer;
+    transition: 0.5s;
+  }
+  
+  .n-input {
+    width: 70%;
+    padding: 5px;
+    color: black;
+    font-weight: 200;
+    background-color: white;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-left: 12px;
+    margin-bottom: 10px;
+    /* cursor: pointer; */
+    transition: 0.5s;
+  }
+  
+  .e-input {
+    width: 70%;
+    padding: 5px;
+    color: black;
+    font-weight: 200;
+    background-color: white;
+    border: none;
+    outline: none;
+    margin-left: 24px;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    transition: 0.5s;
+  }
+  
+  .w-input {
+    width: 70%;
+    padding: 5px;
+    color: black;
+    font-weight: 200;
+    background-color: white;
+    border: none;
+    outline: none;
+    margin-left: 24px;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    transition: 0.5s;
+  }
+  
+  .wallet {
+    text-align: center;
+    font-size: 17px;
+    margin-right: 6px;
+    color: purple;
+    background: transparent;
+  }
+
+  .create-b{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    color: white;
+    padding: 7px;
+    font-weight: 200;
+    background-color: rgb(207, 144, 250, 1);
+    border: none;
+    outline: none;
+    margin-top: 20px;
+    border-radius: 5px;
+    margin-top: 5px;
+    cursor: pointer;
+    transition: 0.5s;
+    
+  }

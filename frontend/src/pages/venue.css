@@ -1,0 +1,195 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+  }
+  
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: rgb(207, 144, 250);
+    background: linear-gradient(
+      90deg,
+      rgba(207, 144, 250, 1) 10%,
+      rgba(246, 137, 174, 1) 34%,
+      rgba(249, 132, 82, 1) 60%,
+      rgba(246, 183, 99, 1) 87%,
+      rgba(252, 176, 69, 1) 100%
+    );
+  }
+  
+  .logo {
+    top: 5px;
+    left: 5px;
+    position: absolute;
+    color: white;
+    font-size: 3rem;
+    font-weight: 600;
+    text-shadow: 5px;
+    margin-bottom: 20px;
+    margin-left: 30px;
+    margin-top: 30px;
+  }
+  
+  .card {
+    background-color: #fff; /* white background */
+    border-radius: 10px; /* rounded corners */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* add a shadow effect */
+    margin-top: 20px;
+  }
+  
+  .card-img-top {
+    width: 100%; /* make the image fill the width of the card */
+    height: 200px; /* set the height of the image to 200 pixels */
+    object-fit: cover; /* scale the image to fit within the dimensions while maintaining aspect ratio */
+    border-top-left-radius: 10px; /* rounded corners */
+    border-top-right-radius: 10px; /* rounded corners */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card-title {
+    margin-bottom: 0; /* remove the bottom margin */
+    font-style: normal bold;
+    font-weight: 600;
+    font-size: 2rem;
+    line-height: 1.5;
+    color: #000;
+  }
+  
+  .card-text {
+    margin-top: 0; /* remove the top margin */
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #000;
+    margin-bottom: 10px;
+  }
+  
+  .card-body {
+    padding: 1rem 1rem; /* add some padding inside the card body */
+  }
+  
+  .carousel-inner {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .b1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    padding: 10px;
+    color: #fff;
+    font-weight: 200;
+    background-color: orange;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    margin-top: 20px;
+    cursor: pointer;
+    transition: 0.5s;
+  }
+  
+  .b1:hover {
+    background-color: orange;
+    color: purple;
+    box-shadow: #000;
+  }
+  
+  .b2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    padding: 10px;
+    color: #fff;
+    font-weight: 200;
+    background-color: orange;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    margin-top: 20px;
+    cursor: pointer;
+    transition: 0.5s;
+  }
+  
+  .b2:hover {
+    background-color: orange;
+    color: purple;
+    box-shadow: #000;
+  }
+  
+  .b3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    padding: 10px;
+    color: #fff;
+    font-weight: 200;
+    background-color: orange;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    margin-top: 20px;
+    cursor: pointer;
+    transition: 0.5s;
+  }
+  
+  .b3:hover {
+    background-color: orange;
+    color: purple;
+    box-shadow: #000;
+  }
+  
+  .b4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    padding: 10px;
+    color: #fff;
+    font-weight: 200;
+    background-color: orange;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    margin-top: 20px;
+    cursor: pointer;
+    transition: 0.5s;
+  }
+  
+  .b4:hover {
+    background-color: orange;
+    color: purple;
+    box-shadow: #000;
+  }
+  
+  .b5 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    padding: 10px;
+    color: #fff;
+    font-weight: 200;
+    background-color: orange;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    margin-top: 20px;
+    cursor: pointer;
+    transition: 0.5s;
+  }
+  
+  .b5:hover {
+    background-color: orange;
+    color: purple;
+    box-shadow: #000;
+  }

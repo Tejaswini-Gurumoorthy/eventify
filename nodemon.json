@@ -1,0 +1,9 @@
+{
+    "env": {
+        "MONGO_USER": "tejaswinigurumoorthy",
+        "MONGO_PASSWORD": "9qj2kagPy3lFcgNR",
+        "EMAIL_ID": "eventifyproject@gmail.com",
+        "EMAIL_PASSWORD": "asujzlgulutuyxgd"
+    }
+}
+
